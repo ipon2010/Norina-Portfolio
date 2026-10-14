@@ -52,17 +52,17 @@ export const profile = {
   timeline: [
     {
       role: "Finance and Performance Associate",
-      org: "UNOPS Philippines",
+      org: "UNOPS",
       period: "12/24 – present",
     },
     {
       role: "Administrative and Finance Associate",
-      org: "UNOPS",
+      org: "UNHCR",
       period: "09/16 – 04/21",
     },
     {
-      role: "Finance Officer, then FEP Grant Officer",
-      org: "Oxfam",
+      role: "Programmme Assistant",
+      org: "UNDP",
       period: "05/15 – 08/16",
     },
     {
@@ -70,11 +70,11 @@ export const profile = {
       org: "Climate Change Commission",
       period: "10/12 – 05/14",
     },
-    { role: "Procurement Associate", org: "UNFPA", period: "03/12 – 09/12" },
+    { role: "Procurement Focal Person", org: "UNFPA", period: "03/12 – 09/12" },
     { role: "Consultant", org: "WWF & PeaceTech Inc.", period: "08/10 – 12/11" },
     {
-      role: "Consultant",
-      org: "Update Management & Research Center Inc.",
+      role: "Finance Assistant",
+      org: "UNFPA",
       period: "01/06 – 01/07",
     },
     { role: "Accountant", org: "General Electric", period: "04/04 – 12/05" },
@@ -235,8 +235,8 @@ export const profile = {
     heading: "Education",
     entries: [
       {
-        name: "Bachelor of Science in Accountancy, De La Salle University – Dasmarinas, Philippines",
-        url: "https://www.dlsud.edu.ph/",
+        name: "Bachelor of Science in Accountancy, Notre Dame of Kidapawan College, Philippines",
+        url: "https://ndkc.edu.ph/",
       },
     ],
   },
